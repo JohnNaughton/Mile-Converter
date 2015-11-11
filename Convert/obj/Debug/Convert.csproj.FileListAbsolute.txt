@@ -1,0 +1,6 @@
+c:\users\john\documents\visual studio 2015\Projects\Convert\Convert\bin\Debug\Convert.exe.config
+c:\users\john\documents\visual studio 2015\Projects\Convert\Convert\bin\Debug\Convert.exe
+c:\users\john\documents\visual studio 2015\Projects\Convert\Convert\bin\Debug\Convert.pdb
+c:\users\john\documents\visual studio 2015\Projects\Convert\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2015\Projects\Convert\Convert\obj\Debug\Convert.exe
+c:\users\john\documents\visual studio 2015\Projects\Convert\Convert\obj\Debug\Convert.pdb
